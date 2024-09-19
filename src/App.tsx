@@ -1,5 +1,6 @@
 import './App.css'
 import proyecto from "./assets/img/descarga.png"
+
 function App() {
 
 
@@ -14,3 +15,5 @@ function App() {
     </>
   )
 }
+
+export default App
